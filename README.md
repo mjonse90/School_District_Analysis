@@ -10,3 +10,7 @@ Data Sources:     clean_students_complete.csv     missing_grade.csv     schools_
 Software:     Python 3.9     Jupyter Notebooks 6.1.4     Anaconda 3.8.5
 
 Code Techniques Utilized: Pandas Numpy
+
+## Results
+### Original data received from school district
+
