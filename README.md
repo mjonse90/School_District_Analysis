@@ -26,3 +26,9 @@ After correcting the data, Thomas High School is now a top performing school in 
 
 ### Spending ranges per student
 Along with fixing the Thomas High School issue, we were tasked with analyzing the amount of money spent per student and if there were any correlations to their test scores.
+<img width="823" alt="Screen Shot 2022-05-22 at 9 59 19 PM" src="https://user-images.githubusercontent.com/103767830/169735236-0680803f-0eeb-43e9-bf27-b53aaa6db3a7.png">
+According to our analysis, the less money schools spent per student, the higher the test scores were.
+
+### School performance by size
+We also analyzed how large a school was and if it had any effect on student's test scores.
+
