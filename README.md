@@ -18,4 +18,7 @@ The original set of data shows that the Thomas High School overall passing grade
 
 ### Altered DataFrame 
 We removed 461 students from the Thomas High School list. This brought THS from an overall passing grade of 65% to 90%.
+<img width="999" alt="Screen Shot 2022-05-22 at 9 47 01 PM" src="https://user-images.githubusercontent.com/103767830/169734089-0973dd99-0264-4e6a-811f-1a6e0d4d2688.png">
 
+### Top ranking school
+After correcting the data, Thomas High School is now a top performing school in the district.
