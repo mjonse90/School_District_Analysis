@@ -22,3 +22,7 @@ We removed 461 students from the Thomas High School list. This brought THS from 
 
 ### Top ranking school
 After correcting the data, Thomas High School is now a top performing school in the district.
+<img width="993" alt="Screen Shot 2022-05-22 at 9 51 48 PM" src="https://user-images.githubusercontent.com/103767830/169734830-155fc495-fa14-4c66-b6b6-4212692c0ea7.png">
+
+### Spending ranges per student
+Along with fixing the Thomas High School issue, we were tasked with analyzing the amount of money spent per student and if there were any correlations to their test scores.
