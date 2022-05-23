@@ -13,4 +13,9 @@ Code Techniques Utilized: Pandas Numpy
 
 ## Results
 ### Original data received from school district
+The original set of data shows that the Thomas High School overall passing grade is 65%.
+<img width="999" alt="Screen Shot 2022-05-22 at 9 33 12 PM" src="https://user-images.githubusercontent.com/103767830/169733006-2fdedcd4-312b-4665-961a-1748f010ac91.png">
+
+### Altered DataFrame 
+We removed 461 students from the Thomas High School list. This brought THS from an overall passing grade of 65% to 90%.
 
