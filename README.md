@@ -31,7 +31,9 @@ According to our analysis, the less money schools spent per student, the higher 
 
 ### School performance by size
 We also analyzed how large a school was and if it had any effect on student's test scores.
-<img width="762" alt="Screen Shot 2022-05-22 at 10 05 15 PM" src="https://user-images.githubusercontent.com/103767830/169735568-8e24af76-7275-48c3-8770-fcf98cb67b8b.png">
-Our analysis shows that smaller schools (small and medium sized) performed better than the large school category.
+<img width="762" alt="Screen Shot 2022-05-22 at 10 07 26 PM" src="https://user-images.githubusercontent.com/103767830/169735785-5ef83437-86ed-43ab-a3d8-b99d60fa389b.png">
+ Our analysis shows that smaller schools (small and medium sized) performed better than the large school category.
 
+### School performance by type
+Our final conclusion was based off whether district schools or charter schools performed better.
 
