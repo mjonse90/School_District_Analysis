@@ -14,7 +14,7 @@ Code Techniques Utilized: Pandas Numpy
 ## Results
 ### Original data received from school district
  The original set of data shows that the Thomas High School overall passing grade is 65%.
-<img width="999" alt="Screen Shot 2022-05-22 at 9 33 12 PM" src="https://user-images.githubusercontent.com/103767830/169733006-2fdedcd4-312b-4665-961a-1748f010ac91.png">
+<img width="989" alt="Screen Shot 2022-05-22 at 10 17 53 PM" src="https://user-images.githubusercontent.com/103767830/169736794-d6904f39-3f87-4d33-b313-9d37551c710a.png">
 
 ### Altered DataFrame 
  We removed 461 students from the Thomas High School list. This brought THS from an overall passing grade of 65% to 90%.
@@ -27,16 +27,19 @@ Code Techniques Utilized: Pandas Numpy
 ### Spending ranges per student
  Along with fixing the Thomas High School issue, we were tasked with analyzing the amount of money spent per student and if there were any correlations to their test scores.
 <img width="823" alt="Screen Shot 2022-05-22 at 9 59 19 PM" src="https://user-images.githubusercontent.com/103767830/169735236-0680803f-0eeb-43e9-bf27-b53aaa6db3a7.png">
+
  According to our analysis, the less money schools spent per student, the higher the test scores were.
 
 ### School performance by size
  We also analyzed how large a school was and if it had any effect on student's test scores.
 <img width="762" alt="Screen Shot 2022-05-22 at 10 07 26 PM" src="https://user-images.githubusercontent.com/103767830/169735785-5ef83437-86ed-43ab-a3d8-b99d60fa389b.png">
+
  Our analysis shows that smaller schools (small and medium sized) performed better than the large school category.
 
 ### School performance by type
  Our final analysis was based off whether district schools or charter schools performed better.
 <img width="710" alt="Screen Shot 2022-05-22 at 10 08 59 PM" src="https://user-images.githubusercontent.com/103767830/169735983-5f801414-db89-439f-a776-22ee8404f58e.png">
+
  Our analysis shows that charter schools outperformed district schools.
 
 ## Summary
